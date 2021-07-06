@@ -7,7 +7,7 @@ h1{
 }
 .top-content{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 }
 .hot{
     color: red;
@@ -42,4 +42,23 @@ h1{
 }
 h2{
     font-size: 30px;
+}
+.mid{
+    text-align: center;
+    margin-top: 80px;
+   
+}
+.bottom-content{
+    display: flex;
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 0px 15px;
+}
+.maintain{
+    margin-left: 15px;
+    margin-right: 15px;
+    padding: 10px 10px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 15px;
 }
